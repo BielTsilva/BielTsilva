@@ -29,6 +29,8 @@
   <a href="https://www.linkedin.com/in/bieltsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="https://instagram.com/biel_tsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    <a href="mailto:gelogabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   
+   ![Snake animation](https://github.com/BielTsilva/BielTsilva/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
