@@ -4,7 +4,6 @@
 
 - 🔭 Ainda não trabalho, mas minha especialidade é front-end, ❤Angular❤ ...
 - 🌱 E estou estudando 🙀Java😼 ...
-- Obrigado
 
 
 <div>
